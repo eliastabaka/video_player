@@ -16,6 +16,7 @@
 		FA682CDD297D5BA8000A991F /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA682CDC297D5BA8000A991F /* video_playerTests.swift */; };
 		FA682CE7297D5BA8000A991F /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA682CE6297D5BA8000A991F /* video_playerUITests.swift */; };
 		FA682CE9297D5BA8000A991F /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA682CE8297D5BA8000A991F /* video_playerUITestsLaunchTests.swift */; };
+		FA682CF6297D5F9E000A991F /* video.MOV in Resources */ = {isa = PBXBuildFile; fileRef = FA682CF5297D5F9E000A991F /* video.MOV */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA682CE2297D5BA8000A991F /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA682CE6297D5BA8000A991F /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		FA682CE8297D5BA8000A991F /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FA682CF5297D5F9E000A991F /* video.MOV */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = video.MOV; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		FA682CC4297D5BA7000A991F /* video_player */ = {
 			isa = PBXGroup;
 			children = (
+				FA682CF5297D5F9E000A991F /* video.MOV */,
 				FA682CC5297D5BA7000A991F /* AppDelegate.swift */,
 				FA682CC7297D5BA7000A991F /* SceneDelegate.swift */,
 				FA682CC9297D5BA7000A991F /* ViewController.swift */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA682CF6297D5F9E000A991F /* video.MOV in Resources */,
 				FA682CD2297D5BA8000A991F /* LaunchScreen.storyboard in Resources */,
 				FA682CCF297D5BA8000A991F /* Assets.xcassets in Resources */,
 				FA682CCD297D5BA7000A991F /* Main.storyboard in Resources */,
